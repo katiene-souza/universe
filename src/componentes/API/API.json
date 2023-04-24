@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Sol",
+        "description": "O sol é uma estrela que existe a 4,6 bilhões de anos e é o maior corpo celeste do sistema solar, contendo 99,86% de sua massa, devido a isso os planetas e demais corpos orbitam em sua volta. É formado principalmente por hélio e hidrogênio, possui 6 camadas e a última se chama núcleo, onde acontece as reações nucleares e há emissão de luz e geração de calor para os demais planetas, calor esse fundamental para a manutenção da vida na terra. O sol é 110 vezes maior que à terra e está a 150 milhões de distância do nosso planeta natal, a luz solar demora 8 minutos e 20 segundos para chegar na superfície da terra.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/sun.svg?impor"
+
+    },
+    {
+        "id": 2,
+        "name": "Mercúrio ",
+        "description": "Mercúrio é o menor planeta do sistema solar, o segundo mais denso e o mais próximo do sol, seu núcleo corresponde a 75% de sua massa, acreditasse que Mercúrio era um planeta enorme que foi sendo transportado para perto do sol, se chocando com outros corpos celestes no caminho que afetaram sua estrutura, possui instabilidade climática, baixas e altas temperaturas que variam de 420° C a -173° C. Os ventos solares dificultam a presença de atmosfera, satélites naturais e anéis. Apesar de sua proximidade com o sol, suas crateras não recebem muita iluminação devido à falta de uma inclinação como à Terra, possibilitando a formação de gelo durante a noite, devido a sua baixa translação, Mercúrio não possui estações do ano.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/mercury.svg?impor"
+
+    },
+    {
+        "id": 3,
+        "name": "Vênus",
+        "description": "Vênus é o segundo planeta do sistema solar, existe a 300-600 milhões de anos, é o segundo corpo celeste mais brilhante do céu, ficando atrás somente do Sol  e apesar de não ser o planeta mais próximo do sol, é o mais quente, sua superfície chega a 482 °C devido aos componentes do planeta que gera o efeito estufa. Falando em componentes, 97% da sua composição atmosférica é feita de dióxido de carbono e assim como Mercúrio, Vênus também não possui satélites naturais. Ele é considerado um planeta irmão da terra, devido a suas afinidades, ambos são terrestres e possuem tamanho, massa e composição semelhantes, porém, possuem aspectos únicos, como condições para a proliferação de vida e a atmosfera de Vênus é 92 vezes mais densa que a da Terra.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/venus.svg?impor"
+
+    },
+    {
+        "id": 4,
+        "name": "Terra",
+        "description": "A terra ocupa o terceiro lugar do sistema solar e possui um satélite natural, estima-se que ele foi formado a 4,6 bi de anos e era inabitável, de lá para cá teve diversas eras com mutações violentas, como terremotos, meteoros e a formação dos gases que deu origem a atmosfera que nos protegem da radiação solar e permite a respiração. Possuí três principais camadas internas, onde a crosta é a mais superficial e é onde vivemos, na camada externa, temos a superfície terrestre onde encontramos as camadas: hidrosfera (o conjunto de águas), a biosfera (a vida, os biomas) e a litosfera (as rochas e os minerais). A Terra realiza movimentos cruciais para o desenvolvimento da vida, a translação (em torno do sol) e rotação (em torno do próprio eixo), além de possuir uma inclinação em relação ao seu eixo, todo essa conjunto gera às quatro estações do ano.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/earth.svg?impor"
+
+    },
+    {
+        "id": 5,
+        "name": "Marte",
+        "description": "Marte é o quarto planeta do nosso sistema solar e o segundo menor, sua coloração avermelhada é devido o fato de ter óxido de ferro em sua superfície, possui dois satélites naturais chamados de Fobos e Deimos. Marte é frio, árido e rochoso, sua temperatura máxima é de 25° C, com uma média de -60° C e pode chegar a -140° C durante a noite. É o planeta mais estudado atualmente, sua semelhança com à Terra desperta a atenção de cientistas e astrônomos, possuem aspectos em comuns como as estações dos anos, relevo e aproximação do dia terrestre (quase 24 horas), no entanto, sua atmosfera fina formada principalmente de gás carbono reforça a impossibilidade de condição de vida no planeta.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/mars.svg?impor"
+
+    },
+    {
+        "id": 6,
+        "name": "Júpiter",
+        "description": "Júpiter ocupa o quinto lugar e é o maior de todos os planetas, devido ao seu tamanho possui cerca de 70 satélites naturais, também possui anéis, que são finas e pouco vísiveis. Tem nuvens coloridas formadas principalmente por Hidrôgenio e Hélio e pelas intensas tempestades que geram ventos de 600km/hora, a nuvem mais famosa foi apelidada de Mancha Vermelha, tão grande que consegue encobrir toda à terra, o fato do planeta ser gasoso gera essas tempestades, a temperatura média de sua superfície é de -121,1 ° C. Possui um forte campo gravitacional e sua estrutura interna é desconhecida, acreditasse que seu núcleo é rochoso ou mesmo de gelo com um manto ao redor feito de hidrogênio metálico denso, alguns estudos mostram que a temperatura entre o núcleo e o manto é de 35 mil °C.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/jupiter.svg?impor"
+
+    },
+    {
+        "id": 7,
+        "name": "Saturno",
+        "description": "Saturno é o sexto planeta do sistema solar, o segundo maior, e conta com aproximadamente 82 satélites naturais, sua composição de hidrogênio e hélio faz com que ele seja conhecido como um gigante gasoso, destacasse entre os planetas pelo seus anéis que são formados principalmente por rochas e gelo. Seu núcleo é denso e solidificado formado por hidrogênio líquido metálico e hidrogênio líquido, mesmo com toda essa composição o planeta é menos denso que a água. Possui tons amarelados, marrons e brancos em sua superfície que também te, amônia e água congela em sua composição, que aparecem como faixas brancas devido a grandes tempestades, a temperatura média do planeta é de -138°C.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/saturn.svg?impor"
+
+    },
+    {
+        "id": 8,
+        "name": "Urano",
+        "description": "Urano é o terceiro maior planeta do sistema solar e possui 27 luas ao todo, está localizado na sétima posição, formado por gases e fluidos, não possui uma superfície solida, porém, seu núcleo é rochoso, Urano é conhecido como gigante de gelo por sua temperatura média ser de -197° C. Sua atmosfera é formada por hidrogênio, hélio e meteno, elemento responsável pela coloração verde azulada, os ventos nesse planeta atingem até 900 km/h. Uma de suas curiosidades é sua magnetosfera, seu eixo magnetítico tem cerca de 60° de inclinação com relação ao seu eixo de rotação e se encontra deslocado do centro. Urano também possui anéis que não são tão visíveis como de Saturno.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/uranus.svg?impor"
+
+    },
+    {
+        "id": 9,
+        "name": "Netuno",
+        "description": "Netuno é o último planeta que compõe nosso sistema solar, localizado na oitava posição, por ser o mais distante do sol, demora 165 anos para dar uma volta no Sol e sua temperatura gira em torno de -200° C o que contrasta com seu núcleo rochoso que chega 5 mil graus célsius esse planeta também é conhecido como gigante de gelo, não possui superfície solida e sua atmosfera é composta principalmente por gases como hélio, metano, hidrogênio e amônia, os ventos nessa camada pode chegar a 2 mil km/h. Netuno possui 14 luas conhecidas e faz parte dos quatro planetas que possuem anéis formados principalmente por poeira, gelo e detritos.",
+        "imageUrl": "http://localhost:5173/src/assets/imagens/neptune.svg?impor"
+    }
+
+]
+
